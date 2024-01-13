@@ -1,0 +1,10 @@
+#menu{
+    display:flex;
+    align-content: center;
+}
+
+.menuitems{
+    display: inline-block;
+    padding-right: 20px;
+    align-content: right;
+}
